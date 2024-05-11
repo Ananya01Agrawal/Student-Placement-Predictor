@@ -1,2 +1,2 @@
-# ml-model-deployment-aws-ec2
+# Student Placement Predictor
 codes related to aws ec2 deployment
